@@ -2,7 +2,9 @@
 
 **This webesite has 2 pages :**
 
+**1) Home Page:**
 
+![plot](static/images/homepage.png)
 
 
 
