@@ -7,10 +7,14 @@
 ![plot](static/images/homepage.png)
 
 
+**2) Shrini's Page:**
 
+![plot](static/images/thankYouShrini.png)
 
 Directory Structure
 -------------------
+
+```
 css\              - Stylesheets CSS files for the template.
 images\           - Images used in template.
 scripts\          - JavaScript used in the template.
@@ -19,10 +23,12 @@ favicon.ico       - Favicon placeholder provided for the template.
 index.html        - Main HTML page to open the template in browser.
 *.html            - Additional HTML pages (if any).
 LICENSE-*.txt     - License file as per your downloaded variant.
+```
 
 How to Edit the template
 ------------------------
 
+```
 1. Editing Content in template
 
 To edit the content open the corresponding *.html files and open them
@@ -37,3 +43,4 @@ You must know how to edit CSS files to do this.
 If you have purchased any of the premium version then you will also get
 SCSS source files which generates all the styles of the template.
 You can use these SCSS files to make your changes and regenerate CSS.
+```
